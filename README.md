@@ -21,7 +21,7 @@ Staking is presently accessible on the Sepolia Testnet, where participants will 
 ### Clone
 
 ```
-   git clone https://github.com/coinel7/Metaverse-Game.git
+   git clone https://github.com/Finalgoal231/Horse-Racing-PRG.git
 ```
 
 ### Install dependencies
